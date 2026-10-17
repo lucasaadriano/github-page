@@ -1,21 +1,19 @@
-# Meu Portfólio Acadêmico
+# Portfólio Acadêmico — Ciência da Computação
 
-Este repositório contém meu portfólio acadêmico, criado como estudante do primeiro semestre de Ciência da Computação. A página apresenta meus estudos e reúne uma área para os projetos que desenvolver durante a graduação.
+Este repositório tem como objetivo reunir e apresentar minha trajetória acadêmica durante a graduação em Ciência da Computação. Aqui serão organizados os conteúdos, estudos, atividades e projetos desenvolvidos ao longo do curso, abrangendo diferentes disciplinas e áreas da computação.
 
-## Tecnologias
-- **HTML:** estrutura do conteúdo.
-- **CSS:** aparência e adaptação a diferentes telas.
-- **JavaScript:** menu de navegação em telas menores.
-- **Git e GitHub:** armazenamento e controle de versões.
-- **GitHub Pages:** publicação do site.
+## Objetivo
 
-## Arquivos
-- `index.html`: página principal.
-- `css/style.css`: estilos do site.
-- `js/script.js`: comportamento do menu.
+Organizar meus materiais acadêmicos em um só lugar, acompanhar minha evolução ao longo da graduação e construir um portfólio com os conhecimentos adquiridos e os projetos desenvolvidos durante o curso.
 
-## Antes de compartilhar
-Revise o texto para que represente você. Você também pode trocar o link genérico do GitHub pelo endereço do seu perfil e adicionar links para seus próprios repositórios de projetos.
+## Organização
 
-## GitHub Pages
-A configuração esperada é a branch `main` com a pasta `/(root)`.
+Os conteúdos serão organizados por disciplinas e projetos, facilitando o acesso aos materiais e permitindo acompanhar o desenvolvimento de cada etapa da graduação.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- GitHub Pages
